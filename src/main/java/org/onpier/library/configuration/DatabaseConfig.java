@@ -8,7 +8,9 @@ import org.springframework.jdbc.datasource.init.DataSourceInitializer;
 import org.springframework.jdbc.datasource.init.ResourceDatabasePopulator;
 
 import javax.sql.DataSource;
-
+/*
+this class is for executing init.sql
+ */
 @Configuration
 public class DatabaseConfig {
 
