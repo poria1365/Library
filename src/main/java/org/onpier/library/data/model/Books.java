@@ -11,7 +11,9 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-
+/*
+This class is for creating a table "users" by JPA
+ */
 @Table(name = "books")
 @Entity
 @Data

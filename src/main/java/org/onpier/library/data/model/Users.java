@@ -12,7 +12,9 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import java.time.LocalDate;
 
-
+/*
+This class is for creating a table "users" by JPA
+ */
 @Table(name = "users")
 @Entity
 @Data

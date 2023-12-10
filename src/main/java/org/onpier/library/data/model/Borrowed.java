@@ -9,7 +9,10 @@ import lombok.experimental.FieldDefaults;
 
 import java.time.LocalDate;
 
-//create Table borrowed with entity jpa
+/*
+This class is for creating a table "borrowed" by JPA
+and primary keys for the "users" and "books" tables are foreign keys. It
+*/
 @Table(name = "borrowed")
 @Entity
 @Data
