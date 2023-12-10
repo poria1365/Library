@@ -1,5 +1,5 @@
 # Library
-1- I've used the h2 as database and I've stored data in database
+1- I've used the h2 as database and I've stored data in it
 
 2- returns all users who have actually borrowed at least one book --> http://localhost:8080/Library/getUserAtLeastOneBorrowed
 
